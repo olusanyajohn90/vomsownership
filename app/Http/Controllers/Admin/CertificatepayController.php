@@ -202,7 +202,7 @@ class CertificatepayController extends Controller
         // Update the transaction to note that you have given value for the transaction
         // You can also redirect to your success page from here
 
-        return Redirect()->back();
+        return Redirect()->route('find.certificate');
 
     }
 
