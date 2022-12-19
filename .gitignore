@@ -1,0 +1,17 @@
+#/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+#/vendor
+#.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+paydaydashboard/https---github.com-4core-Integrated-Services-payday-dashboard-backend.git/
+paydaydashboard/payday-dashboard-backend/
