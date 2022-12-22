@@ -18,7 +18,7 @@
                             <div class="menu_wrapper"> <a class="responsive-menu-toggle" href="#" aria-label="Mobile menu"><i class="icon-menu-fine" aria-hidden="true"></i></a>
                                 <nav id="menu" role="navigation" aria-expanded="false" aria-label="Main Menu">
                                     <ul id="menu-main-menu" class="menu menu-main">
-                                        <li class=" current-menu-item page_item current_page_item"> <a href="#"><span>Home</span></a> </li>
+                                        <li class=" current-menu-item page_item current_page_item"> <a href="#"><span>HOME</span></a> </li>
                                         <li> <a href="https://owner.voms.zetatransform.com/login"><span>LOGIN</span></a> </li>
 
                                         <li> <a href="https://dealer.voms.zetatransform.com/login"><span>DEALER LOGIN</span></a> </li>
