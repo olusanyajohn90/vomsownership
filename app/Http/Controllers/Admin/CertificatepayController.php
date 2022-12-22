@@ -203,6 +203,7 @@ class CertificatepayController extends Controller
         // You can also redirect to your success page from here
 
         return Redirect()->route('find.certificate');
+        
 
     }
 

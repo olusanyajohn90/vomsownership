@@ -19,9 +19,9 @@
                                 <nav id="menu" role="navigation" aria-expanded="false" aria-label="Main Menu">
                                     <ul id="menu-main-menu" class="menu menu-main">
                                         <li class=" current-menu-item page_item current_page_item"> <a href="#"><span>Home</span></a> </li>
-                                        <li> <a href="#"><span>LOGIN</span></a> </li>
+                                        <li> <a href="https://owner.voms.zetatransform.com/login"><span>LOGIN</span></a> </li>
 
-                                        <li> <a href="#"><span>Contact</span></a> </li>
+                                        <li> <a href="https://dealer.voms.zetatransform.com/login"><span>DEALER LOGIN</span></a> </li>
                                     </ul>
                                 </nav>
                             </div>
@@ -55,7 +55,7 @@
                             <div class="col-md-7 mcb_item_custom1322 tablet-one-third mobile-one mfn-item-inline">
                                 <div class="mcb-column-inner"> <a class="button button_theme button_size_2" href="#"><span class="button_label">Register Certificate</span></a> </div>
                             </div>
-                         
+
                         </div>
                     </div>
                     <div class="col-md-5 mcb_wrap_custom346 tablet-one-second mobile-one clearfix" data-desktop-col="one-second" data-tablet-col="tablet-one-second" data-mobile-col="mobile-one">
@@ -101,7 +101,7 @@
                         <div class="col-12 tablet-one mobile-one">
                             <div class="mcb-column-inner">
                                 <div class="image_frame element_classes image_item no_link scale-with-grid alignnone no_border">
-                                    <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/lottie-home-pic1.webp')  }}" alt="lottie-home-pic1" width="1374" height="1190" /> </div>
+                                    <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/carfront.gif')  }}" alt="lottie-home-pic1" width="1374" height="1190" /> </div>
                                 </div>
                             </div>
                         </div>
@@ -116,7 +116,7 @@
                         <div class="col-12 mcb_item_custom1410 tablet-one mobile-one">
                             <div class="mcb-column-inner">
                                 <div class="column_attr mfn-inline-editor clearfix">
-                                    <p> VOMS is your ne stop shop for your vehicle certificates be a dealer ar a vehicle owner</p>
+                                    <p> VOMS is your one stop shop for your vehicle certificates be a dealer or a vehicle owner</p>
                                 </div>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                             <div class="col-12 mcb_item_custom1346 tablet-one mobile-one">
                                 <div class="mcb-column-inner">
                                     <div class="image_frame element_classes image_item no_link scale-with-grid alignnone no_border svg">
-                                        <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/lottie-about-pic1.svg')  }}" alt="lottie-about-pic1" /> </div>
+                                        <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/login.gif')  }}" alt="lottie-about-pic1" /> </div>
                                     </div>
                                 </div>
                             </div>
@@ -177,7 +177,7 @@
                             <div class="col-12 mcb_item_custom1348 tablet-one mobile-one">
                                 <div class="mcb-column-inner">
                                     <div class="image_frame element_classes image_item no_link scale-with-grid alignnone no_border svg">
-                                        <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/lottie-about-pic2.svg')  }}" alt="lottie-about-pic2" /> </div>
+                                        <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/vregister.gif')  }}" alt="lottie-about-pic2" /> </div>
                                     </div>
                                 </div>
                             </div>
@@ -196,7 +196,7 @@
                             <div class="col-12 mcb_item_custom1331 tablet-one mobile-one">
                                 <div class="mcb-column-inner">
                                     <div class="image_frame element_classes image_item no_link scale-with-grid alignnone no_border svg">
-                                        <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/lottie-about-pic3.svg')  }}" alt="lottie-about-pic3" /> </div>
+                                        <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/apply.gif')  }}" alt="lottie-about-pic3" /> </div>
                                     </div>
                                 </div>
                             </div>
@@ -215,7 +215,7 @@
                             <div class="col-12 mcb_item_custom1332 tablet-one mobile-one">
                                 <div class="mcb-column-inner">
                                     <div class="image_frame element_classes image_item no_link scale-with-grid alignnone no_border svg">
-                                        <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/lottie-about-pic4.svg')  }}" alt="lottie-about-pic4" /> </div>
+                                        <div class="image_wrapper"><img class="scale-with-grid" src="{{  asset('public/frontend/content/lottie/images/certificate.gif')  }}" alt="lottie-about-pic4" /> </div>
                                     </div>
                                 </div>
                             </div>
@@ -286,16 +286,16 @@
                     <hr class="no_line" style="margin:0 auto 120px"> </div>
                 <div class="col-md-4">
                     <h6>Contact us</h6>
-                    <div style="height:45px" aria-hidden="true" class="wp-block-spacer"></div>
+                    <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
                             <h4 class="has-text-color" style="color:#017fe4"><a href="tel:61383766284">+234 81444444494</a></h4>
                     <p> <a href="#"><u><span>noreply@voms.gov.ng</span></u></a> </p>
                 </div>
                 <div class="col-md-4 mobile-one tablet-one-third">
                     <h6>Links</h6>
-                    <div style="height:45px" aria-hidden="true" class="wp-block-spacer"></div>
-                    <p style="margin-bottom: 30px;"> <a href="content/lottie/about.html" data-type="URL" data-id="about/index.html">Login</a> </p>
-                    <p style="margin-bottom: 30px;"> <a href="content/lottie/news.html" data-type="URL" data-id="news/index.html">Register</a> </p>
-                    <p style="margin-bottom:30px;"> <a href="content/lottie/contact.html" data-type="URL" data-id="contact/index.html">Contact</a> </p>
+                    <div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+                    <p style="margin-bottom: 30px;"> <a href="https://owner.voms.zetatransform.com/login" data-type="URL" >Login</a> </p>
+
+                    <p style="margin-bottom:30px;"> <a href="https://dealer.voms.zetatransform.com/login" data-type="URL" >Dealer Login</a> </p>
 
                 </div>
                 {{-- <div class="col-md-4 mobile-one tablet-one-third">
