@@ -144,6 +144,7 @@ class CertificateController extends Controller
         ->join('states', 'certificates.issue_state_id', 'states.id')
 
         ->select('certificates.*',  'states.name')
+        ->orderBy('start_date', 'desc')
         // ->get()
         ->paginate(5)
         ;

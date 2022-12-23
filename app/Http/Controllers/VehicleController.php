@@ -207,8 +207,9 @@ class VehicleController extends Controller
         ->join('states', 'vehicles.registration_state_id', 'states.id')
 
         ->select('vehicles.*',  'states.name')
+        ->orderBy('id', 'desc')
         // ->get()
-        ->paginate(2)
+        ->paginate(5)
         ;
 
 

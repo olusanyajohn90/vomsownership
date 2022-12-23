@@ -125,7 +125,10 @@ class CertificatepayController extends Controller
 
 
 
-        DB::table('certificates')->insert($datas);
+       DB::table('certificates')->insert($datas);
+       DB::table('vehicles')
+       ->where( 'vehicle_id',  $request->vehicle_id)
+       ->update(['certificate_id' => $certificateid ]);
         //  dd($payment['data']['link']);
           return redirect($payment['data']['link']);
 
