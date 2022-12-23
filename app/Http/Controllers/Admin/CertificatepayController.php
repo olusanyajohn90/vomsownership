@@ -119,7 +119,7 @@ class CertificatepayController extends Controller
        $datas['vehicle_id'] = $request->vehicle_id;
        $datas['cert_id'] = $certificateid;
        $datas['certificate_owner_id'] = $vehicle->owner_voms_id;
-       $datas['issue_state_id'] = $vehicle->registration_state_id;
+       $datas['issue_state_id'] = $request->registration_state_id;
        $datas['payment_status_id'] = 2;
 
 
@@ -203,7 +203,7 @@ class CertificatepayController extends Controller
         // You can also redirect to your success page from here
 
         return Redirect()->route('find.certificate');
-        
+
 
     }
 
